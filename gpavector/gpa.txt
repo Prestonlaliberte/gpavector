@@ -1,0 +1,5 @@
+James                     3.9
+Margaret                3.5
+Charles                 1.2
+Jennifer                 4.0
+Claude                   2.9
